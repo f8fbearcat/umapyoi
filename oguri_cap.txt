@@ -1,0 +1,30 @@
+06/01	Make Debut						
+08/10	Cosmos Sho						
+10/05	Saudi Arabia Royal Cup	33,000,000		G3
+12/28	Hopeful Stakes			70,000,000		G1
+
+03/03	Yayoi Sho				52,000,000		G2
+04/14	Satsuki Sho			97,000,000		G1
+05/26	Japanese Derby			200,000,000	G1
+08/03	Whitney Stakes			128,631,500	G1
+10/20	Kikuka Sho				115,000,000	G1
+12/22	Arima Kinen			300,000,000	G1
+
+02/17	February Stakes			100,000,000	G1
+03/31	Osaka Hai				135,000,000	G1
+04/28	Tennou Sho Spring		150,000,000	G1
+06/23	Takarazuka Kinen		150,000,000	G1
+08/18	Sapporo Kinen			70,000,000		G2
+10/27	Tennou Sho Autumn		150,000,000	G1
+11/24	Japan Cup				300,000,000	G1
+12/22	Arima Kinen			300,000,000	G1
+
+02/29	Sadui Cup				1,286,235,000	G1
+07/27	KGVI&QE Stakes		205,797,600	G1	ASC
+10/06	Prix De l'Arc De Triomphe	740,326,768	G1	LCH
+12/22	Arima Kinen			300,000,000	G1
+
+G1	17
+G2	2
+G3	1
+22/22	

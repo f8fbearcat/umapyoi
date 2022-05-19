@@ -1,0 +1,22 @@
+06/13	Make Debut				D
+10/26	Hagi Stakes				L			
+11/23	Kyoto Junior Stakes			G3			33,000,000
+
+01/14	Keisei Hai					G3			38,000,000
+03/09	Tab Australian Cup			G1	AUS	FLE	79,929,000
+04/14	Satsuki Sho				G1			97,000,000
+05/26	Tokyo Yushun Japanese Derby	G1			200,000,000
+06/29	Irish Derby					G1	IRE	CUR	57,283,290
+
+09/01	Juddmonte International Stakes	G1	UK	YOR	89,215,888
+10/20	Kikuka Sho					G1			115,000,000
+12/08	Hong Kong Cup				G1	HK	ST	280,922,011
+01/26	Pegasus W.C. Turf Invitational S.	G1	US	GP	68,478,025
+
+03/30	Dubai Sheema Classic			G1	UAE	MEY	464,254,200
+06/23	The Takarazuka Kinen			G1			150,000,000
+
+G1	10
+G3	2
+
+12/12

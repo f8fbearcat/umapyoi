@@ -1,0 +1,23 @@
+10/05	Saudi Arabia Royal Cup	G3
+11/16	Touspo Cup Junior Stakes	G3
+12/28	Hopeful Stakes			G1
+02/10	Kyoudou Tsuushin Hai		G3
+04/14	Satsuki Sho			G1
+05/26	Nippon Derby (x)			
+08/18	Sapporo Kinen			G2
+10/27	Tennou Sho Autumn		G1
+12/25	Arima Kinen (x)			
+03/31	Osaka Hai				G1
+06/23	Takarazuka Kinen (x)		
+08/18	Sapporo Kinen			G2
+10/27	Tennou Sho Autumn		G1
+12/22	Arima Kinen (x)			
+03/31	Osaka Hai				G1
+06/23	Takarazuka Kinen (x)		
+08/18	Sapporo Kinen			G2
+
+G1	6
+G2	3
+G3	3
+
+12/17
